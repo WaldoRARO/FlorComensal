@@ -8,7 +8,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/estilos.css">
-    <title>Hello, world!</title>
+    <title>Comensal</title>
   </head>
   <body>
 
@@ -32,7 +32,7 @@
                     <a href="registro.php">Registro</a>
                     </li>
                     <li>
-                        <a href="reservacion.php">Reservacion</a>
+                        <a href="reservacion.php">Reservaciones</a>
                     </li>
 
                 </ul>
